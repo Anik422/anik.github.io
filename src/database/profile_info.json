@@ -1,0 +1,58 @@
+{
+    "first_name": "Anik",
+    "last_name": "Saha",
+    "title": "Jr. Softwarer Engineer | Proficient in Javascript & Python | Ready to elevate your brand",
+    "about_me": "I am a Software Engineer. I love to code and solve problems. I am a quick learner and always try to learn new things. I am a self-taught programmer. I love to work with JavaScript, React, Node.js, Express.js, MongoDB, etc. I am also familiar with Python, Django, Flask, etc. I am a tech enthusiast and always try to learn new technologies.",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D5635AQGVoRdof97QQQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1736152385859?e=1741766400&v=beta&t=acLD63RW3iQAqSDCR9ErYAH7zCxjqbLTFlLAHj_zbmw",
+    "banner_picture": "https://media.licdn.com/dms/image/v2/C5616AQGGbG19IQm6BA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668507241282?e=1744848000&v=beta&t=q3x3-IhrbToEoASJvEBM3ve3hRtV2xETytxgegLOfuI",
+    "email": "aniks422@gmail.com",
+    "contact_links": [
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com/anik.saha.142"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/anik-saha-7b7b3b1b4/"
+        },
+        {
+            "name": "Github",
+            "link": "www.github.com/anik-saha"
+        },
+        {
+            "name": "Twitter",
+            "link": "https://twitter.com/AnikSaha422"
+        }
+    ],
+    "professional_journey": [
+        {
+            "icon": "👨🏻‍💻",
+            "company": "Trademajestic Limited",
+            "position": "Jr. Software Engineer",
+            "description": "I am working as a Jr. Software Engineer at Trademajestic Limited. I am responsible for developing and maintaining the company's web applications. I am also responsible for developing new features and fixing bugs. I am also responsible for the deployment of the applications.",
+            "duration": "Sep 2022 - Present"
+
+        },
+        {
+            "icon": "🌏",
+            "company": "DevotrixInc",
+            "position": "Intern (Jr. Software Developer)",
+            "description": "I worked as an intern at DevotrixInc. I manage entire projects, focusing on automation development using Python and selenium. I ensure the successful delivery of each project. I also did some FastAPI related tasks here.",
+            "duration": "Sep 2023 - Dec 2023"
+        }
+    ],
+    "footer_text": [
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com/anik.saha.142"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/anik-saha-7b7b3b1b4/"
+        },
+        {
+            "name": "Github",
+            "link": "www.github.com/anik-saha"
+        }
+    ]
+}

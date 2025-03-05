@@ -1,0 +1,24 @@
+{
+    "first_name": "Anik",
+    "last_name": "Saha",
+    "nav_links": [
+        {
+            "id": 1,
+            "name": "Me",
+            "icon": "👨🏻‍💻",
+            "link": "/"
+        },
+        {
+            "id": 2,
+            "name": "Portfolio",
+            "icon": "📁",
+            "link": "/Portfolio"
+        },
+        {
+            "id": 3,
+            "name": "Contact",
+            "icon": "📮",
+            "link": "/contact"
+        }
+    ]
+}
